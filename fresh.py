@@ -81,4 +81,5 @@ for i in df.index:
                                                                 
                                                                     vectorizer = TfidfVectorizer()
                                                                         X = vectorizer.fit_transform(document)
-                                                                        
+                                                                            ~ print(vectorizer.get_feature_names())
+                                                                            
