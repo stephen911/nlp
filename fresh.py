@@ -70,3 +70,4 @@ for i in df.index:
                                         
                                             vectorizer.fit(document)
                                             
+                                            
