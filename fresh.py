@@ -60,4 +60,5 @@ for i in df.index:
                 
                 ~ Defining vec_space_method
                 def vec_space_method(recipe_query):
-                    
+                        document = df["combine_features"]
+                        
