@@ -109,4 +109,5 @@ for i in df.index:
                                                                                                                                                                           stemmed.append(ps.stem(words))
                                                                                                                                                                                 return stemmed
                                                                                                                                                                             
-                                                                                                                                                                            
+                                                                                                                                                                                ~ Function to remove stopwords from tokenized word list
+                                                                                                                                                                                
