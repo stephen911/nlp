@@ -101,4 +101,5 @@ for i in df.index:
                                                                                                                             tokens = nltk.word_tokenize(doc_text)
                                                                                                                                     return tokens
                                                                                                                                 
-                                                                                                                                
+                                                                                                                                    ~ This function will performing stemming on tokenized words
+                                                                                                                                    
