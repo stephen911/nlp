@@ -20,3 +20,4 @@ df = pd.read_csv("recipes.csv")
 
 ~identifying missing data and cleaning
 
+~ showing summary statistics
