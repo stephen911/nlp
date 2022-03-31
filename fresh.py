@@ -28,3 +28,4 @@ print("\n")
 print(df.nlargest(10, 'rating_avg')["title"])
 print("\n")
 print(df.nlargest(10, 'rating_val')["title"])
+
