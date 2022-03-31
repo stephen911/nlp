@@ -8,3 +8,4 @@ from collections import Counter
 import math
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
+import nltk
