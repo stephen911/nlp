@@ -104,4 +104,5 @@ for i in df.index:
                                                                                                                                     ~ This function will performing stemming on tokenized words
                                                                                                                                         def word_stemmer(token_list):
                                                                                                                                                   ps = nltk.stem.PorterStemmer()
-                                                                                                                                                  
+                                                                                                                                                        stemmed = []
+                                                                                                                                                        
