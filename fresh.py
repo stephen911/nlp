@@ -64,4 +64,5 @@ for i in df.index:
                             ~ print(document)
                             
                             
-                            
+                                ~using the countVectorizer class
+                                
