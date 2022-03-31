@@ -6,3 +6,4 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.model_selection import train_test_split
 from collections import Counter
 import math
+from sklearn.preprocessing import StandardScaler
