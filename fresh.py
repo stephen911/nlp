@@ -112,4 +112,5 @@ for i in df.index:
                                                                                                                                                                                 ~ Function to remove stopwords from tokenized word list
                                                                                                                                                                                     def remove_stopwords(doc_text):
                                                                                                                                                                                               cleaned_text = []
-                                                                                                                                                                                              
+                                                                                                                                                                                                    for words in doc_text:
+                                                                                                                                                                                                        
