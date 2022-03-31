@@ -24,3 +24,4 @@ df = pd.read_csv("recipes.csv")
 print(df[["rating_avg", "rating_val"]].describe())
 
 ~ displaying 10 highest rated recipes
+print("\n")
