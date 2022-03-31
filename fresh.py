@@ -54,4 +54,5 @@ for i in df.index:
                 combined_features.append(new)
                 
                 
+                ~ adding combine features to dataframe
                 
