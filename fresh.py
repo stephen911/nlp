@@ -97,4 +97,5 @@ for i in df.index:
                                                                                                             stop_words = set(stopwords.words('english'))
                                                                                                             
                                                                                                             
-                                                                                                            
+                                                                                                                def get_tokenized_list(doc_text):
+                                                                                                                    
