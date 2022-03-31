@@ -22,3 +22,4 @@ df = pd.read_csv("recipes.csv")
 
 ~ showing summary statistics
 print(df[["rating_avg", "rating_val"]].describe())
+
