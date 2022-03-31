@@ -75,4 +75,5 @@ for i in df.index:
                                                     
                                                         ~ Encode the Document
                                                             vector = vectorizer.transform(document)
-                                                            
+                                                                ~ print(vector)
+                                                                
