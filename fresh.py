@@ -94,4 +94,5 @@ for i in df.index:
                                                                                                     
                                                                                                     
                                                                                                         ~ print(stopwords.words('english'))
-                                                                                                        
+                                                                                                            stop_words = set(stopwords.words('english'))
+                                                                                                            
