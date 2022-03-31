@@ -10,3 +10,4 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 import nltk
 from nltk.corpus import stopwords
+import matplotlib.pyplot as plt
