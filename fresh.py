@@ -48,3 +48,7 @@ features=['title','rating_avg','rating_val','total_time','category','cuisine', '
 combined_features = []
 
 
+for i in df.index:
+        fresh = df.loc[i, features].values.flatten().tolist()
+            new = " ".join(str(x) for x in fresh)
+            
