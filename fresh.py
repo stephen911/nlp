@@ -114,4 +114,5 @@ for i in df.index:
                                                                                                                                                                                               cleaned_text = []
                                                                                                                                                                                                     for words in doc_text:
                                                                                                                                                                                                                 if words not in stop_words:
-                                                                                                                                                                                                                    
+                                                                                                                                                                                                                              cleaned_text.append(words)
+                                                                                                                                                                                                                              
