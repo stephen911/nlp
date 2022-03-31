@@ -30,3 +30,4 @@ print("\n")
 print(df.nlargest(10, 'rating_val')["title"])
 
 ~ Question 2
+~ visualizing data
