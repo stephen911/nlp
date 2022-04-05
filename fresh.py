@@ -56,4 +56,5 @@ for i in df.index:
                 
                 
                 ~ adding combine features to dataframe
+                df['combine_features'] = combined_features
                 
