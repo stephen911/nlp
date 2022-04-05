@@ -80,3 +80,5 @@ for i in df.index:
                                                                 
                                                                 
                                                                 
+                                                                    vectorizer = TfidfVectorizer()
+                                                                    
