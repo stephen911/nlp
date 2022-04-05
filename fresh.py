@@ -36,3 +36,4 @@ df.plot(x="rating_avg", y=["rating_val"], kind="scatter",)
 ~ df.plot(x="rating_avg", y=["rating_val"])
 plt.show()
 
+~ commenting of relationship or rating_val and rating_avg
