@@ -38,3 +38,4 @@ plt.show()
 
 ~ commenting of relationship or rating_val and rating_avg
 print("\n")
+print("The higher the rating_val the lower the rating_avg")
