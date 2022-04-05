@@ -75,4 +75,5 @@ for i in df.index:
                                                     ~ print("Vocabulary: ", vectorizer.vocabulary_)
                                                     
                                                         ~ Encode the Document
-                                                        
+                                                            vector = vectorizer.transform(document)
+                                                            
