@@ -32,3 +32,4 @@ print(df.nlargest(10, 'rating_val')["title"])
 
 ~ Question 2
 ~ visualizing data
+df.plot(x="rating_avg", y=["rating_val"], kind="scatter",)
