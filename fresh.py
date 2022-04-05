@@ -108,4 +108,6 @@ for i in df.index:
                                                                                                                                                         stemmed = []
                                                                                                                                                               for words in token_list:
                                                                                                                                                                           stemmed.append(ps.stem(words))
-                                                                                                                                                                          
+                                                                                                                                                                                return stemmed
+                                                                                                                                                                            
+                                                                                                                                                                            
