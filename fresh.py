@@ -67,4 +67,5 @@ for i in df.index:
                             
                                 ~using the countVectorizer class
                                     ~ Create a Vectorizer Object
-                                    
+                                        vectorizer = CountVectorizer()
+                                        
