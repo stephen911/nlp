@@ -11,3 +11,4 @@ from sklearn.neighbors import KNeighborsClassifier
 import nltk
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
+from sklearn.metrics import classification_report
