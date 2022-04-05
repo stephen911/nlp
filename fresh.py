@@ -42,3 +42,5 @@ print("The higher the rating_val the lower the rating_avg")
 print("The threshold i suggest is 3 since 25% of rating_val is 3.\nTherefore any rating_val below or equal to 3 can be considered not significant")
 
 print("\n")
+~ Question 3
+features=['title','rating_avg','rating_val','total_time','category','cuisine', 'ingredients']
