@@ -54,3 +54,4 @@ for i in df.index:
             new = " ".join(str(x) for x in fresh)
                 combined_features.append(new)
                 
+                
