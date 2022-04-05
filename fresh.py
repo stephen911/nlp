@@ -21,3 +21,4 @@ df = pd.read_csv("recipes.csv")
 ~identifying missing data and cleaning
 cuisine = df['cuisine'].replace(r'^\s*$', np.nan, regex=True)
 
+~ showing summary statistics
