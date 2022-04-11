@@ -103,4 +103,5 @@ for i in df.index:
                                                                                                                                     return tokens
                                                                                                                                 
                                                                                                                                     ~ This function will performing stemming on tokenized words
-                                                                                                                                    
+                                                                                                                                        def word_stemmer(token_list):
+                                                                                                                                            
