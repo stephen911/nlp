@@ -90,4 +90,5 @@ for i in df.index:
                                                                                             ~ print(df1)
                                                                                             
                                                                                             
-                                                                                            
+                                                                                                nltk.download('punkt')
+                                                                                                
