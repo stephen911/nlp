@@ -91,4 +91,6 @@ for i in df.index:
                                                                                             
                                                                                             
                                                                                                 nltk.download('punkt')
-                                                                                                
+                                                                                                    nltk.download('stopwords')
+                                                                                                    
+                                                                                                    
