@@ -78,3 +78,4 @@ for i in df.index:
                                                             vector = vectorizer.transform(document)
                                                                 ~ print(vector)
                                                                 
+                                                                
