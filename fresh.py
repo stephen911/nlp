@@ -100,4 +100,5 @@ for i in df.index:
                                                                                                             
                                                                                                                 def get_tokenized_list(doc_text):
                                                                                                                             tokens = nltk.word_tokenize(doc_text)
-                                                                                                                            
+                                                                                                                                    return tokens
+                                                                                                                                
