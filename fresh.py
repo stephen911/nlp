@@ -87,4 +87,5 @@ for i in df.index:
                                                                                 
                                                                                     vector = X
                                                                                         df1 = pd.DataFrame(vector.toarray(), columns=vectorizer.get_feature_names())
-                                                                                        
+                                                                                            ~ print(df1)
+                                                                                            
