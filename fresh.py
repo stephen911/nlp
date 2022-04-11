@@ -26,3 +26,4 @@ print(df[["rating_avg", "rating_val"]].describe())
 
 ~ displaying 10 highest rated recipes
 print("\n")
+print(df.nlargest(10, 'rating_avg')["title"])
