@@ -89,3 +89,4 @@ for i in df.index:
                                                                                         df1 = pd.DataFrame(vector.toarray(), columns=vectorizer.get_feature_names())
                                                                                             ~ print(df1)
                                                                                             
+                                                                                            
