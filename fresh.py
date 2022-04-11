@@ -107,4 +107,5 @@ for i in df.index:
                                                                                                                                                   ps = nltk.stem.PorterStemmer()
                                                                                                                                                         stemmed = []
                                                                                                                                                               for words in token_list:
-                                                                                                                                                                  
+                                                                                                                                                                          stemmed.append(ps.stem(words))
+                                                                                                                                                                          
