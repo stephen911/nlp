@@ -94,4 +94,5 @@ for i in df.index:
                                                                                                     nltk.download('stopwords')
                                                                                                     
                                                                                                     
-                                                                                                    
+                                                                                                        ~ print(stopwords.words('english'))
+                                                                                                        
