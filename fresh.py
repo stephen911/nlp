@@ -59,4 +59,5 @@ for i in df.index:
                 df['combine_features'] = combined_features
                 
                 
+                ~ Defining vec_space_method
                 
